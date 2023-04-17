@@ -1,3 +1,16 @@
-body{
-    background-color: #201313;
+*{
+    margin: 0;
+    padding: 20;
+}
+.cabecalho{
+    background-color: #000000;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+}
+.cabecalho-lista-item{
+ display: inline-block;
+ padding: 80px;
+ margin: 20px;
 }
